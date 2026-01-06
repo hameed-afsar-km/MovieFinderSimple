@@ -6,7 +6,7 @@
 [![OMDb API](https://img.shields.io/badge/OMDb%20API-000000?style=for-the-badge&logo=imdb&logoColor=white)](https://www.omdbapi.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-_🌐 Live Demo: **Movie Finder** (Deployable on Vercel / GitHub Pages)_
+_🌐 Live Demo: [**Movie Finder**](https://movie-finder-simple.vercel.app/)_
 
 A modern **Movie Search Application** built using **HTML, CSS, and Vanilla JavaScript**, allowing users to **search, explore, and visually browse movies** using real-time data from the **OMDb API**.
 
