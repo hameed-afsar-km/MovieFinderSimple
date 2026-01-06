@@ -70,9 +70,12 @@ or ``host using Live Server in VS Code``
 
 --- 
 ## 📸 Screenshots
-### Search Results View
+### Landing Page
+<img width="500" height="auto" alt="1" src="https://github.com/user-attachments/assets/8da3d740-ab8a-42bb-86b2-9296e70da956" />
 
-### Movie Grid Layout
+### Search Result & Movie Grid Layout
+<img width="500" height="auto" alt="2" src="https://github.com/user-attachments/assets/4484eb8e-c5c4-4d40-b77e-cf04f91800a4" />
+<img width="500" height="auto" alt="3" src="https://github.com/user-attachments/assets/d3cc6267-8fb3-44f0-913a-e7f0d25a4098" />
 
 
 --- 
